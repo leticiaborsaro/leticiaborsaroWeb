@@ -1,0 +1,41 @@
+body {
+    background-color: blanchedalmond;
+    margin:0%;
+    padding:0%;
+}
+
+header {
+    background-color: #0dcaf0;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#button-nav {
+    background-color: bisque;
+    color:black;
+}
+
+#button-nav:hover {
+    background-color:darkcyan;
+    color:whitesmoke;
+}
+
+#formButton {
+    text-align: center;
+}
+
+footer {
+    
+    background-color:#0dcaf0;
+}
+
+.card {
+    margin-top: 0;
+    margin: 20px;
+}
